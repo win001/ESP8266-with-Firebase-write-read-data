@@ -1,0 +1,7 @@
+#ifndef FIREBASE_READ_DATA
+#define FIREBASE_READ_DATA 0
+#endif
+
+#ifndef FIREBASE_WRITE_DATA
+#define FIREBASE_WRITE_DATA 0
+#endif
