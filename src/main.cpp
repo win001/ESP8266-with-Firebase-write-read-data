@@ -1,4 +1,4 @@
-#if 1
+#if 1 // this section of code is for reading the data to firebase database
 #include <Arduino.h>
 #if defined(ESP32)
   #include <WiFi.h>
@@ -93,7 +93,7 @@ void loop() {
   }
 }
 #endif
-#if 0
+#if 0 // this section of code is for writing data to firebase database
 #include <Arduino.h>
 #if defined(ESP32)
   #include <WiFi.h>
